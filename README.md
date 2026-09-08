@@ -32,24 +32,7 @@ The analysis helps identify top-performing restaurants, popular dishes, revenue-
 | Seaborn          | Advanced Visualizations        |
 | Jupyter Notebook | Analysis Environment           |
 
----
 
-## 📂 Project Structure
-
-```text
-Swiggy-Food-Delivery-Analytics
-│
-├── Dataset
-│   └── swiggy_data.csv
-│
-├── Notebook
-│   └── Swiggy_Analytics.ipynb
-│
-├── Dashboard Images
-│   └── Visualizations
-│
-└── README.md
-```
 
 ---
 
@@ -270,8 +253,4 @@ jupyter notebook
 
 GitHub: https://github.com/hemu0119
 
-LinkedIn: Add Your LinkedIn Profile
 
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub.
